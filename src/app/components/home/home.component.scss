@@ -1,0 +1,34 @@
+img {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+
+button {
+  margin: 10px;
+}
+
+
+.usernameContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+}
+
+.logout {
+  align-self: flex-end;
+  min-width: 150px;
+
+}
+.header {
+  width: 92%;
+}
+
+.flexitem {
+  width: 150px;
+  text-align: center;
+  font-size: 18px bold;
+}
